@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 📫 How to reach me **https://www.linkedin.com/in/mark-dhave-repala-049b182a0/**
+
 
 <p align="left">
 </p>
