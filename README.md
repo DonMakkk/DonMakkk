@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/mark-dhave-repala-049b182a0/**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
