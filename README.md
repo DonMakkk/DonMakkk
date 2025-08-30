@@ -1,12 +1,63 @@
-<h1 align="center">Hi 👋, I'm Mark Dhave Repala</h1>
-<h3 align="center">A passionate Nodejs developer from Philippines</h3>
+# 👋 Hi, I'm Don Makkk
 
-- 🌱 I’m currently learning **Nodejs**
+Welcome to my GitHub profile!  
+I'm a passionate developer who enjoys building projects using **JavaScript** with a strong focus on **backend development** using **Express.js**.  
+I love designing efficient server-side logic, working with databases, and bringing ideas to life through clean and scalable code.
 
+---
 
+## 🛠️ Tools & Technologies I Use
 
-<p align="left">
-</p>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Design & Workflow
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🎯 Main Focus
+While I explore full-stack development, my **main focus is backend development** using:
+- **Express.js** for building APIs and handling server-side logic  
+- **MongoDB** for managing and storing data  
+- **Node.js** for creating scalable applications  
+
+---
+
+## 🌱 Currently Learning
+- Advanced **backend architectures**  
+- Authentication & Authorization (Passport.js, JWT)  
+- API security & deployment best practices  
+
+---
+
+## 📌 Featured Interests
+- Backend Development with Express  
+- Database Design & Optimization  
+- RESTful APIs & Server-side Logic  
+- Exploring Frontend with React for full-stack integration  
+
+---
+
+## 📫 Let’s Connect!
+- 💻 [GitHub](https://github.com/your-username)  
+- 🎨 [Figma Projects](#) *(if you’d like to share)*  
+- ✉️ Reach me at: your-email@example.com  
+
+---
+
+⭐️ *Always curious, always building. Backend first, but exploring the full stack along the way.*
