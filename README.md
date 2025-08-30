@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Don Makkk
+# 👋 Hi, I'm Mark Dhave Repala
 
 Welcome to my GitHub profile!  
 I'm a passionate developer who enjoys building projects using **JavaScript** with a strong focus on **backend development** using **Express.js**.  
@@ -53,10 +53,8 @@ While I explore full-stack development, my **main focus is backend development**
 
 ---
 
-## 📫 Let’s Connect!
-- 💻 [GitHub](https://github.com/your-username)  
-- 🎨 [Figma Projects](#) *(if you’d like to share)*  
-- ✉️ Reach me at: your-email@example.com  
+## 📫 Let’s Connect! 
+- ✉️ Reach me at: repaladhave@gmail.com  
 
 ---
 
