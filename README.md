@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Mark Dhave Repala
+
+# 👋 Hi, I'm Mark Dha![MARK DHAVE REPALA](https://github.com/user-attachments/assets/525037e4-6eb8-43c3-aa07-6682e8e9f6b1)
+ve Repala
 
 Welcome to my GitHub profile!  
 I'm a passionate developer who enjoys building projects using **JavaScript** with a strong focus on **backend development** using **Express.js**.  
