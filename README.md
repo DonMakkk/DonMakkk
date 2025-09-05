@@ -57,8 +57,8 @@ While I explore full-stack development, my **main focus is backend development**
 ---
 
 ## 📫 Let’s Connect! 
-- ✉️ Reach me at: repaladhave@gmail.com  
-
+- ✉️ Reach me at Gmail: repaladhave@gmail.com  
+- ✉️ Reach me at LinkedIn: Mark Dhave Repala 
 ---
 
 ⭐️ *Always curious, always building. Backend first, but exploring the full stack along the way.*
