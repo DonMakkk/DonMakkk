@@ -52,7 +52,7 @@ While I explore full-stack development, my **main focus is backend development**
 - Backend Development with Express  
 - Database Design & Optimization  
 - RESTful APIs & Server-side Logic  
-- Exploring Frontend with React for full-stack integration  
+- Exploring Frontend with React for full-stack integrations  
 
 ---
 
