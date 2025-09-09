@@ -43,7 +43,7 @@ While I explore full-stack development, my **main focus is backend development**
 
 ## 🌱 Currently Learning
 - Advanced **backend architectures**  
-- Authentication & Authorization (Passport.js, JWT)  
+- Authentication & Authorization(Passport.js, JWT)  
 - API security & deployment best practices  
 
 ---
