@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Mark Dhave Repala
 
 Welcome to my GitHub profile!  
-I'm a passionate developer who enjoys building projects using **JavaScript** with a strong focus on **backend development** using **Express.js**.  
+I'm a passionate developer who enjoys building projects using **JavaScript** with a strong focus on **backend development** using **Php**.  
 I love designing efficient server-side logic, working with databases, and bringing ideas to life through clean and scalable code.
 
 ---
